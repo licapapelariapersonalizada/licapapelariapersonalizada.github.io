@@ -12,14 +12,11 @@
 	width: 80%;
 	margin-left: 10%;
 }
-}
-
 .galeria_1 img {
 	width: 340px;
 	height: 320px;
+	margin-bottom: 15px;
 }
-}
-
 @media screen and (min-width: 320px){
 .fundo_do_header img {
 	width: 100%;
