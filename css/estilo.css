@@ -84,12 +84,12 @@
 .voltar {
 	text-align: left;
 }
-@media screen and (min-width: 360px){
+@media screen and (min-width: 310px){
 .some {
 	display: none;
 	}
 }
-@media screen and (min-width: 690px){
+@media screen and (min-width: 890px){
 .aparece {
 	display: block;
 	}
@@ -176,7 +176,7 @@
 	float: right;	
 }
 .margin_right img{
-	margin-right: 35px;
+	margin-right: 65px;
 }
 .bac {
 	background-color: #f20064;
