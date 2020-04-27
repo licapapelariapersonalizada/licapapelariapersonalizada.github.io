@@ -37,6 +37,12 @@
 	text-align: center;
 	margin-top: 10px;
 }
+.titulo_produtos_toy_story {
+	font-size: 1.4em;
+	color: white;
+	text-align: center;
+	margin-top: 10px;
+}
 .titulo_produtos_homen_aranha {
 	font-size: 1.4em;
 	color: white;
@@ -60,11 +66,15 @@
 	color: white;
 }
 .fundo_homem_aranha {
-	background-color: blue;
+	background-color: red;
 	color: white;
 }
+.fundo_toy_story {
+	background-color: blue;
+	color: black;
+}
 .fundo_hulk {
-	background-color: green;
+	background-color: yellowgreen;
 }
 .fundo_mickey {
 	background-color: yellow;
@@ -106,6 +116,15 @@
 	display: block;
 	}
 }
+.borda {
+	border: 2px solid white;
+	border-radius: 10px;
+	width: 400px;
+	height: auto;
+	background-color: #f20064;
+	font-size: 1.6em;
+	text-align: justify;
+}
 .voltar a:hover {
 	background-color: #f20064;
 	color: white;
@@ -125,16 +144,7 @@
 	margin-top: 30px;
 	margin-right: 40px;
 }
-.borda_1 {
-	border: 1px solid #f20064;
-	padding: 5px;
-	color: #f20064;
-	font-size: 1.5em;
-	font-style: italic;
-	text-align: center;
-	border-radius: 10px;
-	width: 50%;
-}
+
 .logo_face_lica img{
 	width: 40px;
 	height: 40px;
@@ -194,7 +204,7 @@
 .margin_right img{
 	margin-right: 65px;
 }
-.bac {
+.fundo_do_carrossel {
 	background-color: #f20064;
 	width: 100%;
 }
@@ -203,26 +213,16 @@
 	width: 100%;
 	height: 40px;
 }
-.bac3 {
+.fundo_do_corpo {
 	background-color: #f20064;
 	width: 100%;
+}
+.letras_branca {
 	color: white;
 }
-.bac4 {
-	background-color: white;
-	width: 100%;
+.letras_amarela {
+	color: yellow;
 }
-.red_bac {
-	background-color: blue;
-	color: white;
-}
-.red_bac h3, .red_bac a .bac_red img {
-	background-color: red !important;
-	color: white;
-}
-.red_bac img {
-	border: 5px solid white;
-}
-.bord img {
-	border: 5px solid white;
+.letras_preta {
+	color: black;
 }
